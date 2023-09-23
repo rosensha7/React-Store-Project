@@ -1,4 +1,4 @@
-# React + Vite
+# React Store App
 
 Install the dependencies and run npm run dev to start the app.
 
